@@ -18,12 +18,13 @@ html {
 }
 
 body {
-	background: rgb(191, 215, 252);
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: rgb(191, 215, 252);
+  font: 18px/1.4 "Lucida Console";
+  color: #000000;
 }
 
 .container {
+  background: /images/container.jpg
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
