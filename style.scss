@@ -59,14 +59,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 20px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 h3 {
@@ -79,15 +79,15 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 12px 0;
 }
 
 a {
   color: #4f4645;
   text-decoration: none;
-	cursor: url("/images/pointer.mhtml");
+  cursor: url("/images/pointer.mhtml");
   &:hover, &:active {
-    color: $blue;
+  color: #ffffff;
   }
 }
 
