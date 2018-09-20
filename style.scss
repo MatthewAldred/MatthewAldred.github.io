@@ -44,8 +44,8 @@ table, th, td {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: "Lucida Console";
+  color: #000000;
   font-weight: bold;
 
   line-height: 1.7;
@@ -74,7 +74,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #000000;
 }
 
 p {
@@ -82,9 +82,9 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #4f4645;
   text-decoration: none;
-	cursor: pointer;
+	cursor: url("/images/pointer.mhtml");
   &:hover, &:active {
     color: $blue;
   }
