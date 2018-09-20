@@ -18,14 +18,14 @@ html {
 }
 
 body {
-  background: rgb(191, 215, 252);
+  background: url("/images/repeat.jpg");
   font: 18px/1.4 "Lucida Console";
   color: #000000;
 }
 
 .container {
   margin-top: 30px;
-  background: url("/images/repeat.jpg");
+  background: rgba(242, 66, 50, 0.7);
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
