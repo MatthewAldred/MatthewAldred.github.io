@@ -18,6 +18,7 @@ html {
 }
 
 body {
+  font: "Verdana", sans-serif;
   background: url("/images/repeat.jpg");
   font: 18px/1.4 "Lucida Console";
   color: #000000;
@@ -44,7 +45,6 @@ table, th, td {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lucida Console";
   color: #000000;
   font-weight: bold;
 
