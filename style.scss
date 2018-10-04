@@ -40,8 +40,8 @@ table {
 }
 
 table, th, td {
-    background: rgba(180, 80, 10, 0.7);
-    border: 1px solid black;
+    background: rgba(180, 80, 10, 0.5);
+    border: 1px solid darkgray;
     padding: 10px;
 }
 
@@ -63,6 +63,7 @@ h1 {
   font-size: 20px;
   a {
     color: inherit;
+    padding-top: 20px;
   }
 }
 
